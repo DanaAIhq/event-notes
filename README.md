@@ -1,6 +1,6 @@
 # Event notes
 
-Notes from conferences and meetups I attend: what I saw and what it means for how we build. They're compiled from my photos and notes, with help from my AI assistant, Grok Bot.
+Notes from conferences and meetups I attend: what I saw and what it means for how we build. Each page combines what I saw (my photos and notes) with the session abstract and linked public sources, compiled with help from my AI assistant, Grok Bot.
 
 ## Events
 
