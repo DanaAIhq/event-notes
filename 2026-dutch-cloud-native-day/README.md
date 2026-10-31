@@ -4,7 +4,7 @@
 
 ![Dutch Cloud Native Day 2026 welcome screen](images/00-venue-welcome.jpg)
 
-I attended the conference day of Dutch Cloud Native Day 2026 and took photos of the talks instead of writing notes. These notes were compiled from my photos with the help of my AI assistant, Grok Bot. Each takeaway reflects what was on the slides I photographed, so the notes cover only part of each talk.
+I attended the conference day of Dutch Cloud Native Day 2026 and took photos of the talks instead of writing notes. These notes were compiled with the help of my AI assistant, Grok Bot. They combine what I saw on the slides I photographed with the official session abstracts and linked public sources, and each session page keeps the three clearly separated.
 
 ## Sessions
 
@@ -28,7 +28,7 @@ Times are local (CET).
 - **Isolation and runtime security.** Sandbox pods with default-deny networking, eBPF/Tetragon detection of container escapes, immutable OS images and confidential computing all came up.
 - **Systems beat models.** "The advantage is not the model. It is the system around it." Hermetic environments and fast feedback loops were repeatedly called the best ROI.
 - **Cost and control of AI infrastructure.** Topics included idle GPUs, low utilisation, data on someone else's hardware and European dependency on non-EU technology.
-- **Open standards.** OpenTelemetry and OpenFeature were presented as a model for a portable agent-control layer (permissions, guardrails, audit).
+- **Open standards.** OpenTelemetry and OpenFeature were presented as a model for a portable agent-control layer (permissions, guardrails, audit). The sovereignty talk's abstract makes a similar case for cloud infrastructure: shared, open APIs (the NeoNephos projects) as the basis for provider interoperability.
 
 ## For our team
 
